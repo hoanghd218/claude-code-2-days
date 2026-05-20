@@ -15,6 +15,7 @@ Dự án này gom **66+ skills** cho Claude Code, chia 2 thư mục:
 
 > **Skill là gì?** Là một "kỹ năng" có sẵn instruction + asset, Claude tự nhận diện và kích hoạt khi prompt của bạn match từ khoá. Bạn **không cần gõ tên skill** — chỉ cần mô tả việc cần làm. Claude sẽ tự gọi skill phù hợp.
 
+# Sách Going Viral được đóng gói thành các agents và skills : https://lab.hookpoint.com/wp-content/uploads/2024/09/Going-Viral-Guide-Free-Version.pdf
 ---
 
 ## Mục lục nhanh
